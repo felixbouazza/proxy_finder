@@ -8,6 +8,7 @@ packages = [{include = "proxy_finder"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+selenium = "^4.5.0"
 
 
 [build-system]
