@@ -19,7 +19,7 @@ cd proxy_finder
 poetry install
 ```
 
-# Run
+# Run
 
 ```
 poetry run python main.py
